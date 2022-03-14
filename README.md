@@ -1,4 +1,8 @@
-## Olá! Eu sou o Matheus Ribeiro
+## Olá! Eu sou o Matheus Ribeiro, seja bem vindo!!
+
+  Sou tecnólogo em Análise e Desenvolvimento de Sistemas e estou iniciando a minha jornada na area de desenvolvimento Java.
+
+
 
 - 🔭 Atualmente tenho me esforçado em aprender java, microserviços e linguagens web bastante utilizadas no mercado de trabalho
 - 🌱 Estou estudando Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais
