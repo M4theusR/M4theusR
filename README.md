@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Ribeiro
 
-- 🔭 Atualmente não estou trabalhando, mas estou aberto a propostas
+- 🔭 Atualmente tenho me esforçado em aprender java, microserviços e linguagens web bastante utilizadas no mercado de trabalho
 - 🌱 Estou estudando Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais
 - 📫 Caso queira entrar em contato comigo: matheusribeiro3105@gmail.com
 
