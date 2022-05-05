@@ -10,10 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/M4theusR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4theusR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theusR&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=M4theusR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theusR&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
-
   ##
   <!--
  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
